@@ -7,3 +7,8 @@ Le CO2 est suivi en air intérieur non pas en raison de sa toxicité mais comme 
 Les données originales portent sur les paramètres climatiques usuels (température, humidité relative), le renouvellement d’air (dioxyde de carbone) et la qualité de l’air (oxydes d‘azote, particules).
 
 Elles ont été relevées par la RATP entre le 1e janvier 2013 et le 13 septembre 2021.
+
+
+# Source des données 
+
+[Data Gouv pour le Machine Learning](https://datascience.etalab.studio/dgml/9f71bd78-6efa-4fbd-be27-f6e7934377a7)
