@@ -20,3 +20,9 @@ Elles ont été relevées par la RATP entre le 1e janvier 2013 et le 13 septembr
 # Source des données 
 
 [Data Gouv pour le Machine Learning](https://datascience.etalab.studio/dgml/9f71bd78-6efa-4fbd-be27-f6e7934377a7)
+
+
+# Notebooks
+
+* air_chatelet_nbk_1_NETTOYAGE_DES_DONNEES.ipynb
+* air_chatelet_nbk_2_ANALYSE_EXPLORATOIRE_DES_DONNEES.ipynb
