@@ -1,3 +1,11 @@
+
+
+
+<p align="center">
+<img src="https://github.com/DataAndMaths/DataAndMaths.github.io/blob/master/assets/img/pexels-skitterphoto-735784.jpg" alt="drawing" width="8000" height="600"/>
+</p>
+
+
 # Description du problème
 
 Notre objectif est de construire un modèle qui permet de prévoir la qualité de l'air de la station Chatelêt (ligne 4) : nous nous concentrons ici uniquement sur la quantité de dioxyde de carbone (CO2).
