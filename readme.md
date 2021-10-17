@@ -26,4 +26,4 @@ Elles ont été relevées par la RATP entre le 1e janvier 2013 et le 13 septembr
 
 * air_chatelet_nbk_1_NETTOYAGE_DES_DONNEES
 * air_chatelet_nbk_2_ANALYSE_EXPLORATOIRE_DES_DONNEES
-* air_chatelet_nbk_3_MODELE_ARIMA
+* [air_chatelet_nbk_3_MODELE_ARIMA](https://nbviewer.org/github/DataAndMaths/qualite_air_chatelet/blob/main/air_chatelet_nbk_3_MODELE_ARIMA.ipynb)
